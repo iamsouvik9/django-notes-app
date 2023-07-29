@@ -42,7 +42,7 @@ NGINX ACESS LOGS(/var/log/nginx/access.log)
 
 
 
-NOTES-APP DASHBOARD
+NOTES-APP 
 
 
 
