@@ -34,16 +34,13 @@ docker run -d -p 8000:8000 notes-app:latest
 
 <img width="960" alt="na-1" src="https://github.com/iamsouvik9/django-notes-app/assets/79768737/8b15d511-567f-4e41-a454-7bbb83703976">
 
-
-```
-
-
-<img width="960" alt="na-2" src="https://github.com/iamsouvik9/django-notes-app/assets/79768737/8c171470-eb05-4a3a-9845-fb70425080a4">
-
-```
+--------
 
 
 
+
+
+<img width="960" alt="na-2" src="https://github.com/iamsouvik9/django-notes-app/assets/79768737/df3612eb-0763-4114-9d12-054d607b6c9d">
 
 
 
