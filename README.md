@@ -29,8 +29,9 @@ docker build -t notes-app .
 ```
 docker run -d -p 8000:8000 notes-app:latest
 ```
+--------------
 
-
+NGINX ACESS LOGS(/var/log/nginx/access.log)
 
 <img width="960" alt="na-1" src="https://github.com/iamsouvik9/django-notes-app/assets/79768737/8b15d511-567f-4e41-a454-7bbb83703976">
 
@@ -38,9 +39,7 @@ docker run -d -p 8000:8000 notes-app:latest
 
 
 
-
-
+NOTES-APP DASHBOARD
 <img width="960" alt="na-2" src="https://github.com/iamsouvik9/django-notes-app/assets/79768737/df3612eb-0763-4114-9d12-054d607b6c9d">
-
 
 
